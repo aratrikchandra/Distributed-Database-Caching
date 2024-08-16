@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-**Duration:** August 2024 - Present
-
 This project focuses on optimizing server performance by developing a distributed database caching service. The primary goal is to reduce the load on database queries and enhance response times, using a combination of Flask, NodeJS, and MongoDB as the backend. The caching service is designed to handle large datasets efficiently through region-based distribution and a timestamp-based caching mechanism.
 
 ## System Architecture
